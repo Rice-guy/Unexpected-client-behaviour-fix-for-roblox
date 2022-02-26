@@ -19,5 +19,5 @@ ECHO frm.cfg has been deleted!
 ) ELSE (
  ECHO frm.cfg does not exist.
  )
-ECHO The unexpected client behavior error should now be fixed. Enjoy!
+ECHO The unexpected client behaviour error should now be fixed. Enjoy!
 
